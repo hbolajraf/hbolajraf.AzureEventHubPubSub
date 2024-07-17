@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hbolajraf.AzureEventHubPubSub.Consumer", "hbolajraf.AzureEventHubPubSub.Consumer\hbolajraf.AzureEventHubPubSub.Consumer.csproj", "{10F2EC80-AF81-41AB-827E-F0235D004C0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hbolajraf.AzureEventHubPubSub.Sender", "hbolajraf.AzureEventHubPubSub.Sender\hbolajraf.AzureEventHubPubSub.Sender.csproj", "{24188D26-4A18-44E5-875F-4C2919D1C108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10F2EC80-AF81-41AB-827E-F0235D004C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F2EC80-AF81-41AB-827E-F0235D004C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F2EC80-AF81-41AB-827E-F0235D004C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F2EC80-AF81-41AB-827E-F0235D004C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24188D26-4A18-44E5-875F-4C2919D1C108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24188D26-4A18-44E5-875F-4C2919D1C108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24188D26-4A18-44E5-875F-4C2919D1C108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24188D26-4A18-44E5-875F-4C2919D1C108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB42FB72-1FC9-48BB-BC1E-1B9D81B8920F}
+	EndGlobalSection
+EndGlobal
